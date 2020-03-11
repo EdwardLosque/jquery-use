@@ -1,3 +1,5 @@
 Mask of Telephone
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/4.0.9/inputmask/bindings/inputmask.binding.min.js"></script>
+
 $('input#form-field-field_1').inputmask({mask:["(99) 9999-9999","(99) 99999-9999",],keepStatic:true});}
